@@ -46,19 +46,19 @@ I am currently studying Interaction Design and Interactive Development at Open W
 
 ### 🚀 Notable Projects
 
-#### 🦇 Lavender Route
+#### <img src="https://api.iconify.design/mdi/ghost.svg?color=%23a855f7" width="22" align="center" /> Lavender Route
 *Lavender Route is a C2C Pokémon underground market platform built on the MERN stack. Users list the Pokémon they wish to sell within a moody, dark-web aesthetic; the admins then reject or approve said posts via secure Role-Based Access Control before they go live.*
 
-#### 📜 Chronicle AI
+#### <img src="https://api.iconify.design/mdi/dice-d20.svg?color=%23f59e0b" width="22" align="center" /> Chronicle AI
 *A cooperative PHP and MySQL web application styled like an old-school D&D parchment manual. It features a secure relational database (3NF) and prepared statements to allow groups of players to embark on text-based campaigns where choices are dynamically tracked and voted on.*
 
-#### 🦅 SpottyBird Wildlife Rehabilitation
+#### <img src="https://api.iconify.design/mdi/bird.svg?color=%2322c55e" width="22" align="center" /> SpottyBird Wildlife Rehabilitation
 *A digital management system for wildlife rehabilitation centres. Translated from a designer's wireframes into a fully functional MERN application featuring live SVG analytics charts, secure JWT sessions, and multipart profile image uploads using Multer.*
 
-#### 🔮 Witchcraft Auth
+#### <img src="https://api.iconify.design/mdi/flask-outline.svg?color=%23d946ef" width="22" align="center" /> Witchcraft Auth
 *A creative, dark-fantasy take on authentication. Built with React and Vite, users cast a specific "ritual sequence" of visual ingredients into an animated cauldron instead of typing a password. Sequences are securely hashed via bcrypt and stored in MongoDB.*
 
-#### 💎 VisionScore
+#### <img src="https://api.iconify.design/mdi/hexagon-outline.svg?color=%233b82f6" width="22" align="center" /> VisionScore
 *A League of Legends inspired analytics platform. Using a crisp Hextech UI design system, this React application dynamically fetches live patch versions and champion statistics from the Riot Games Data Dragon API for side-by-side comparison.*
 
 ---
