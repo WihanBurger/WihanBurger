@@ -40,12 +40,7 @@ I am currently studying Interaction Design and Interactive Development at Open W
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-</p>
-
-
-### 🔭 Currently Building
-- A 3D Unity arcade tycoon game featuring AI customer spawner systems and dynamic UI.
-- A film-inspired mobile application UI/UX project utilizing the Lexend typeface. 
+</p> 
 
 ---
 
