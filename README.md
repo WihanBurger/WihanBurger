@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=WIHAN%20BURGER&fontSize=80&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Interaction%20Designer&descAlignY=60&descAlign=50" alt="Wihan Burger Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4c1d95,9333ea,c026d3&height=250&section=header&text=WIHAN%20BURGER&fontColor=ffffff&fontSize=80&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Interaction%20Designer&descAlignY=60&descAlign=50" alt="Wihan Burger Header"/>
 </div>
 
 ### Hello! I'm Wihan, a full-stack developer and interaction designer. 
@@ -66,8 +66,8 @@ I am currently studying Interaction Design and Interactive Development at Open W
 ### 📊 Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WihanBurger&show_icons=true&theme=tokyonight&hide_border=true" alt="Wihan's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WihanBurger&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WihanBurger&show_icons=true&theme=tokyonight&hide_border=true&v=1&cache_seconds=1800" alt="Wihan's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WihanBurger&theme=tokyonight&hide_border=true&v=1&cache_seconds=1800" alt="Top Languages" width="48%" />
 </p>
 
 ---
