@@ -66,8 +66,8 @@ I am currently studying Interaction Design and Interactive Development at Open W
 ### 📊 Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WihanBurger&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Wihan's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WihanBurger&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WihanBurger&show_icons=true&theme=tokyonight&hide_border=true" alt="Wihan's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WihanBurger&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
